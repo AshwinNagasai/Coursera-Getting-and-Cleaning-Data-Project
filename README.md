@@ -7,13 +7,17 @@ Human Activity Recognition Dataset - UCI Har Dataset (https://d396qusza40orc.clo
 
 Files in the repository:
 I. CodeBook.md - Indicates all the variables and summaries calculated, along with units, and any other relevant information.
-II. run_Analysis.R - performs the data preparation and then followed by the 5 steps required as described in the course project’s definition:
+
+II. run_analysis.R - performs the data preparation and then followed by the 5 steps required as described in the course project’s instructions:
+
 	i) Merges the training and the test sets to create one data set.
 	ii) Extracts only the measurements on the mean and standard deviation for each measurement.
 	iii) Uses descriptive activity names to name the activities in the data set
 	iv) Appropriately labels the data set with descriptive variable names.
 	v) From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+	
 III. final_data.txt - This is the required Tidy data set obtained after all the abovementioned transformations.
+
 IV. README.md - explains the analysis files.
 
 Review Criteria:
